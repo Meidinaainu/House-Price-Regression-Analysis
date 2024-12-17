@@ -38,3 +38,7 @@ X5 (Lot Size): For every increase of one Lot Size unit, the value of the House P
 X6 (Garage Size): For every increase of one Garage Size unit, the value of the House Price will increase by 5158 assuming other variables are constant.
 
 X7 (Neighborhood Quality): For every increase of one Neighborhood Quality unit, the value of the House Price will increase by 80,62 assuming other variables are constant.
+
+**# Recommendations:**
+
+To maximize House Prices, sellers are recommended to prioritize increasing the Lot Size, Number of Bedrooms, and Number of Bathrooms because they have the most significant influence on the house price. 
